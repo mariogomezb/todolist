@@ -1,0 +1,7 @@
+body{
+  margin: 2rem;
+}
+
+.todo-area{
+  display: flex;
+}
